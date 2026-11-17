@@ -46,10 +46,10 @@ Open the local URL printed in the terminal (Vite typically uses
 
   Command             Description
   ------------------- ---------------------------------------
-  `npm run dev`       Starts the Vite development server
-  `npm run build`     Builds the application for production
-  `npm run preview`   Serves the production build locally
-  `npm run lint`      Runs ESLint
+  npm run dev       Starts the Vite development server
+  npm run build     Builds the application for production
+  npm run preview   Serves the production build locally
+  npm run lint      Runs ESLint
 
 ## Backend Integration
 
