@@ -42,15 +42,6 @@ npm run dev
 Open the local URL printed in the terminal (Vite typically uses
 `http://localhost:5173`).
 
-## Available Scripts
-
-  Command             Description
-  ------------------- ---------------------------------------
-  npm run dev       Starts the Vite development server
-  npm run build     Builds the application for production
-  npm run preview   Serves the production build locally
-  npm run lint      Runs ESLint
-
 ## Backend Integration
 
 This frontend is intended to work with the companion backend:
